@@ -1,5 +1,6 @@
 # welcome to the aws party-rock - aws-01 
-# testing fetch commad 
+# testing fetch commad
+adding testing lines 
 
 # raising merge-conflict
 
