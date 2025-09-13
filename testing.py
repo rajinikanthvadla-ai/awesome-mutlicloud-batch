@@ -6,6 +6,8 @@ adding testing lines
 
 now im doing testing from vscode 
 
+checking the rebase command 
+
 
 
 
